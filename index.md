@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# Introdução
 
-You can use the [editor on GitHub](https://github.com/joaom98/EARTE-UFES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O sistema de Ensino-Aprendizagem Remoto Temporário e Emergencial - Earte criou a necessidade de adequar uma infraestrutura que os alunos possam utilizar de casa.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Essa página contém programas gratuitos alternativos compatíveis com o sistema operacional fornecido pela UFES que podem auxiliar os alunos em seus estudos e tarefas. 
 
-### Markdown
+# Programas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pacote Office
 
-```markdown
-Syntax highlighted code block
+Existem diversas alternativas às ferramentas da Microsoft como o Word <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Word-icon.png" alt="Word" width="50">, Excel <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="Excel" width="50"> e PowerPoint <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/PowerPoint-icon.png" alt="PowerPoint" width="50">. 
 
-# Header 1
-## Header 2
-### Header 3
+### Google Drive
 
-- Bulleted
-- List
+O [Google Drive](https://drive.google.com) <img src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Google-Drive-icon.png" alt="Google Drive" width="50"> oferece ferramentas similares e que permitem a colaboração em tempo real. Os arquivos têm o mesmo formato e podem ser compartilhados entre plataformas. Segue um [tutorial](https://support.google.com/drive/answer/2424384?co=GENIE.Platform%3DDesktop&hl=pt-BR).
 
-1. Numbered
-2. List
+### LibreOffice
 
-**Bold** and _Italic_ and `Code` text
+Uma alternativa que já vem instalada nas máquinas fornecidas é o [LibreOffice](https://pt-br.libreoffice.org/) <img src="https://icons.iconarchive.com/icons/franksouza183/fs/256/Apps-libreoffice-main-icon.png" alt="LibreOffice" width="50"> . Ela é uma suíte office livre e que funciona offline, recomendado para caso o Google Drive não esteja acessível.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## AutoCAD
 
-### Jekyll Themes
+O AutoCAD <img src="https://icons.iconarchive.com/icons/ncrow/mega-pack-1/256/Autodesk-AutoCAD-icon.png" alt="AutoCAD" width="50"> é um software que permite fazer designs auxiliados por computador.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joaom98/EARTE-UFES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### LibreCAD
 
-### Support or Contact
+O [LibreCAD](https://librecad.org/) <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/librecad-icon.png" alt="Librecad" width="50"> é uma alternativa gratuita ao AutoCAD.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### FreeCAD
+
+O [FreeCAD](https://www.freecadweb.org/) <img src="https://dashboard.snapcraft.io/site_media/appmedia/2016/06/freecad.png" alt="FreeCAD" width="50"> é outra solução de CAD, porém mais voltada para o 3D. 
+
+---
+
+## MatLab
+
+<img src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Matlab-icon.png" alt="MatLab" width="50">
+
+### Octave
+
+[Octave](https://www.gnu.org/software/octave/) <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/octave-icon.png" alt="Octave" width="50"> é um programa de código aberto com muitas funcionalidades parecidas com o MatLab.
+
+---
+
+## Pacote Adobe
+
+<img src="https://icons.iconarchive.com/icons/nokari/adobe-cc/256/Adobe-Photoshop-icon.png" alt="PS" width="50">
+<img src="https://icons.iconarchive.com/icons/nokari/adobe-cs-series/256/Illustrator-3-icon.png" alt="AI" width="50">
+<img src="https://icons.iconarchive.com/icons/martz90/circle/256/premiere-icon.png" alt="PR" width="50">
+
+
+### Gimp
+
+[Gimp](https://www.gimp.org/) <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/GIMP-icon.png" alt="Gimp" width="50"> Programa para edição similar ao Photoshop
+
+### Inkscape
+
+[Inkscape](https://inkscape.org/pt-br/) <img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Apps-inkscape-icon.png" alt="Inkscape" width="50"> Programa de ilustração vetorial similar ao Adobe Illustrator
+
+### Blackmagic DaVinci Resolve 16
+
+[DaVinci Resolve 16](https://www.blackmagicdesign.com/br/products/davinciresolve/) <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/resolve-icon.png" alt="BMP" width="50"> Editor de vídeos não linear
+
+### KdenLive
+
+[kdenlive](https://kdenlive.org/en/) <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/kdenlive-icon.png" alt="kdenlive" width="50">
+ Editor de vídeos não linear
+
+---
+
+# Dúvidas e contato
+
+Adicionar um meio de contato para o projeto de extensão
